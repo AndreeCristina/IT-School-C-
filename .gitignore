@@ -1,0 +1,15 @@
+# Excludem fișierele generate de Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.log
+
+# Excludem directoarele de build
+x64/
+Debug/
+Release/
